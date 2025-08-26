@@ -60,7 +60,7 @@ AirlineReservationSystem/
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/<your-username>/AirlineReservationSystem.git
+git clone https://github.com/anujkpandit/AirlineReservationSystem.git
 cd AirlineReservationSystem
 ```
 
