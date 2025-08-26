@@ -1,0 +1,13 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IDE settings
+*.idea/
+*.vscode/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore database configuration files
+db_config.properties
+
